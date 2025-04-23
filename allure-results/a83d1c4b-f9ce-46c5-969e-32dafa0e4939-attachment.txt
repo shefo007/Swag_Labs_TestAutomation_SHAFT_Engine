@@ -1,0 +1,14 @@
+[ReportManager] Post processing some properties to support platforms-specific restrictions. @23-04-2025 17:07:34.0478 PM
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @23-04-2025 17:07:34.0650 PM
+[ReportManager] Setting "screenshotParams_scalingFactor" property with "1.25". @23-04-2025 17:07:35.0045 PM
+[ReportManager] Setting "screenshotParams_screenshotType" property with "VIEWPORT". @23-04-2025 17:07:35.0088 PM
+[ReportManager] Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:firefoxOptions: {args: [-headless], log: {level: warn}, prefs: {remote.active-protocols: 3}, profile: UEsDBBQACAgIAPGIl1oAAAAAAAA...}, pageLoadStrategy: none, timeouts: {pageLoad: 30000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: true} @23-04-2025 17:07:35.0479 PM
+[ReportManager] Attempting to run locally on: "Windows | Firefox", Headless Execution. @23-04-2025 17:07:35.0487 PM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @23-04-2025 17:07:35.0491 PM
+[ReportManager] Successfully Opened: "Windows | Firefox", Headless Execution. @23-04-2025 17:08:04.0000 PM
+[ReportManager] Initial window size: (1920, 1080) @23-04-2025 17:08:04.0793 PM
+[ReportManager] Window size after SWD Maximize: (1366, 768) @23-04-2025 17:08:05.0157 PM
+[ReportManager] Maximize window "New screen size is now: (1366, 768)". @23-04-2025 17:08:05.0176 PM
+[ReportManager] Target URL: "https://www.saucedemo.com/" @23-04-2025 17:08:05.0314 PM
+[ReportManager] Initial URL: "about:blank" @23-04-2025 17:08:05.0465 PM
+[ReportManager] Navigate to url "https://www.saucedemo.com/". @23-04-2025 17:08:05.0896 PM

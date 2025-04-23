@@ -1,0 +1,8 @@
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/LoginJsonData.json". @23-04-2025 17:07:33.0930 PM
+[ReportManager] Successfully created attachment 'Test Data - JSON' @23-04-2025 17:07:33.0941 PM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/ProductsJsonData.json". @23-04-2025 17:07:33.0952 PM
+[ReportManager] Successfully created attachment 'Test Data - JSON' @23-04-2025 17:07:33.0966 PM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/ShoppingCartData.json". @23-04-2025 17:07:33.0982 PM
+[ReportManager] Successfully created attachment 'Test Data - JSON' @23-04-2025 17:07:33.0995 PM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/CheckoutInfoData.json". @23-04-2025 17:07:34.0078 PM
+[ReportManager] Successfully created attachment 'Test Data - JSON' @23-04-2025 17:07:34.0092 PM

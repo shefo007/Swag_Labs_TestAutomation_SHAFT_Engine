@@ -1,0 +1,24 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 3' test cases in the current suite                                        
+                      Test Method: 'com.saucedemo.swaglabs.featureTests.CheckoutTests.TC_04_VerifyCheckoutWithEmptyZipCode'                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Click "Add to cart" @23-04-2025 17:08:34.0726 PM
+[ReportManager] Click "1" @23-04-2025 17:08:35.0109 PM
+[ReportManager] Click "Checkout" @23-04-2025 17:08:35.0715 PM
+[ReportManager] Assert that the browser URL contains "/checkout". @23-04-2025 17:08:36.0006 PM
+[ReportManager] Expected "/checkout", and actual "https://www.saucedemo.com/checkout-step-one.html" @23-04-2025 17:08:36.0083 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_17-08-38-391_23042025' @23-04-2025 17:08:38.0424 PM
+[ReportManager] Expected "/checkout", and actual "https://www.saucedemo.com/checkout-step-one.html" @23-04-2025 17:08:38.0430 PM
+[ReportManager] Assertion passed @23-04-2025 17:08:38.0441 PM
+[ReportManager] Type "First Name" @23-04-2025 17:08:39.0353 PM
+[ReportManager] Type "Last Name" @23-04-2025 17:08:39.0707 PM
+[ReportManager] Type "Zip/Postal Code" @23-04-2025 17:08:39.0894 PM
+[ReportManager] Click "Continue" @23-04-2025 17:08:40.0259 PM
+[ReportManager] Assert that the element located by "By.cssSelector: h3[data-test='error']" text is equal to "Error: Postal Code is required". @23-04-2025 17:08:40.0438 PM
+[ReportManager] Get  text "Error: Postal Code is required" @23-04-2025 17:08:40.0806 PM
+[ReportManager] Expected "Error: Postal Code is required", and actual "Error: Postal Code is required" @23-04-2025 17:08:40.0809 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_17-08-44-332_23042025' @23-04-2025 17:08:44.0342 PM
+[ReportManager] Expected "Error: Postal Code is required", and actual "Error: Postal Code is required" @23-04-2025 17:08:44.0357 PM
+[ReportManager] Assertion passed @23-04-2025 17:08:44.0362 PM

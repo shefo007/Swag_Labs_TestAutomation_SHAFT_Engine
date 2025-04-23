@@ -1,0 +1,24 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 3' test cases in the current suite                                        
+                     Test Method: 'com.saucedemo.swaglabs.featureTests.CheckoutTests.TC_03_VerifyCheckoutWithEmptyLastName'                     
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Click "Add to cart" @23-04-2025 17:08:23.0776 PM
+[ReportManager] Click "1" @23-04-2025 17:08:24.0105 PM
+[ReportManager] Click "Checkout" @23-04-2025 17:08:24.0526 PM
+[ReportManager] Assert that the browser URL contains "/checkout". @23-04-2025 17:08:25.0297 PM
+[ReportManager] Expected "/checkout", and actual "https://www.saucedemo.com/checkout-step-one.html" @23-04-2025 17:08:26.0564 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_17-08-38-393_23042025' @23-04-2025 17:08:38.0424 PM
+[ReportManager] Expected "/checkout", and actual "https://www.saucedemo.com/checkout-step-one.html" @23-04-2025 17:08:38.0429 PM
+[ReportManager] Assertion passed @23-04-2025 17:08:38.0441 PM
+[ReportManager] Type "First Name" @23-04-2025 17:08:39.0217 PM
+[ReportManager] Type "Last Name" @23-04-2025 17:08:39.0440 PM
+[ReportManager] Type "Zip/Postal Code" @23-04-2025 17:08:39.0826 PM
+[ReportManager] Click "Continue" @23-04-2025 17:08:40.0197 PM
+[ReportManager] Assert that the element located by "By.cssSelector: h3[data-test='error']" text is equal to "Error: Last Name is required". @23-04-2025 17:08:40.0377 PM
+[ReportManager] Get  text "Error: Last Name is required" @23-04-2025 17:08:40.0797 PM
+[ReportManager] Expected "Error: Last Name is required", and actual "Error: Last Name is required" @23-04-2025 17:08:40.0801 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_17-08-44-384_23042025' @23-04-2025 17:08:44.0394 PM
+[ReportManager] Expected "Error: Last Name is required", and actual "Error: Last Name is required" @23-04-2025 17:08:44.0398 PM
+[ReportManager] Assertion passed @23-04-2025 17:08:44.0412 PM
